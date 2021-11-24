@@ -1,5 +1,9 @@
 .container{
-    margin-bottom: 80px;
+    margin-bottom: 50px;
+}
+.nav-item{
+    margin-left: 20px;
+    font-size: 28px;
 }
 .red-bg{
     background-color: #feeae9;
