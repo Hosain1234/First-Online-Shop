@@ -47,8 +47,10 @@
 }
 .card{
     border: none;
-    box-shadow: 5px 5px 10px gray ;
     border-radius: 10px;
+}
+.card:hover{
+    box-shadow: 5px 5px 30px rgba(128, 128, 128, 0.233);
 }
 .card-footer{
     background-color: white;
